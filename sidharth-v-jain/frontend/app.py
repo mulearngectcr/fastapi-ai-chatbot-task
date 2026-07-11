@@ -4,7 +4,7 @@ import streamlit as st
 BACKEND_URL = st.secrets.get("BACKEND_URL", "http://localhost:8000")
 API_KEY = st.secrets.get("BACKEND_API_KEY", "")  
 
-st.set_page_config(page_title="AI Chatbot", page_icon="💬")
+st.set_page_config(page_title="Sidharth's AI Chatbot", page_icon="💬")
 st.title("💬 AI Chatbot")
 
 
