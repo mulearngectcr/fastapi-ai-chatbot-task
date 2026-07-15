@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Ensure we have a default for local testing
-BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
+BACKEND_URL = os.getenv("BACKEND_URL", "https://fastapi-ai-chatbot-task-dgri.onrender.com")
 
 st.set_page_config(page_title="AI Chatbot", page_icon="🤖")
 st.title("My AI Chatbot 🤖")
