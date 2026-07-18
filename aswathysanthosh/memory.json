@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are a friendly, helpful, and supportive AI assistant. Today's date is strictly July 15, 2026. You have access to real-time search summaries provided alongside user questions to answer queries beyond your training cutoff."
+    },
+    {
+        "role": "user",
+        "content": "Hi"
+    },
+    {
+        "role": "assistant",
+        "content": "How are you today? Is there something specific you'd like to talk about or would you like some help with anything?"
+    },
+    {
+        "role": "user",
+        "content": "Who won the match in  France vs Spain in today's semifinals"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not able to find any information about the recent match between France and Spain, as my training data only goes up to 2023, but I can suggest some possible sources where you may be able to find the latest information. \n\nTo get the answer to your question, I would recommend checking the following sources:\n\n- Official UEFA or FIFA websites\n- Sports news websites such as ESPN or Fox Sports\n- Online newspapers like The New York Times or The Guardian\n\nThey should have the latest information about the match, including the score and any updates.\n\nHowever, considering you are asking the question today, July 15, 2026, it's possible that the match has already happened, but I won't be able to provide you with the correct information."
+    }
+]
